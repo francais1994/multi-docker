@@ -22,3 +22,4 @@ after_success:
   - docker push wuju2013/multi-nginx
   - docker push wuju2013/multi-server
   - docker push wuju2013/multi-worker
+  #add env info
